@@ -1,4 +1,5 @@
-<h1 align="center"> 👋  Hirun Hansaka<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><a  target="_top" href="https://www.flamingtext.com/" ><img src="https://blog.flamingtext.com/blog/2026/06/09/flamingtext_com_1781031394_537876831.gif" border="0" alt="Logo Design by FlamingText.com" title="Logo Design by FlamingText.com"></a></h1>
+<br/>
 <p align="center">
   <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web%20Developer;Full%20Stack-eveloper;5%2B%20years%20of%20coding%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
