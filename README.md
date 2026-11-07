@@ -123,15 +123,6 @@ public class HirunHansaka {
   <img width="100%" height="3" alt="Gradient divider" src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:3B82F6,100:A855F7&height=3" />
 </div>
 
-<!-- ===================== ACHIEVEMENTS ===================== -->
-
-<h2 align="center">GitHub Achievements</h2>
-
-<p align="center">
-  <img width="98%" alt="GitHub trophies for hirun-hsdz, generated from real activity" src="https://github-profile-trophy.vercel.app/?username=hirun-hsdz&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-</p>
-
-<p align="center"><sub>Trophies are generated automatically from real GitHub activity and will fill in as my profile grows.</sub></p>
 
 <!-- ===================== CONNECT ===================== -->
 
