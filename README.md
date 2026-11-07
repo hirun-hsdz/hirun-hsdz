@@ -82,24 +82,6 @@ public class HirunHansaka {
   <img width="100%" height="3" alt="Gradient divider" src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:3B82F6,100:00E5FF&height=3" />
 </div>
 
-<!-- ===================== GITHUB ANALYTICS ===================== -->
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img src="./metrics.svg" alt="Hirun's GitHub metrics, languages, achievements and contribution calendar" width="100%" />
-</p>
-
-<h3 align="center">🔥 Contribution Streak</h3>
-
-<p align="center">
-  <img src="./profile/streak.svg" alt="Hirun's GitHub contribution streak" width="85%" />
-</p>
-
-<div align="center">
-  <img width="100%" height="3" alt="Gradient divider" src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:3B82F6,100:A855F7&height=3" />
-</div>
-
 
 <!-- ===================== CURRENT FOCUS ===================== -->
 
