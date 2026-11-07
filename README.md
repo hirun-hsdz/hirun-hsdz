@@ -100,21 +100,6 @@ public class HirunHansaka {
   <img width="100%" height="3" alt="Gradient divider" src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5FF,50:3B82F6,100:A855F7&height=3" />
 </div>
 
-<!-- ===================== CONTRIBUTION SNAKE ===================== -->
-
-<h2 align="center">Contribution Snake</h2>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./output/github-snake.svg" />
-    <img alt="Animated snake eating my GitHub contribution graph" src="./output/github-snake-dark.svg" />
-  </picture>
-</p>
-
-<div align="center">
-  <img width="100%" height="3" alt="Gradient divider" src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:3B82F6,100:00E5FF&height=3" />
-</div>
 
 <!-- ===================== CURRENT FOCUS ===================== -->
 
